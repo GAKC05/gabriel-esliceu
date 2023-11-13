@@ -5,4 +5,6 @@
 
 -- Algunos sistemas operativos permiten la asignación de prioridades a los procesos para garantizar que ciertos procesos reciban una atención preferente.
 
-![](imagenes/planificacion_y_asignacion_de_recursos.jpg)
+<p align="center">
+  <img src="imagenes/planificacion_y_asignacion_de_recursos.jpg" alt="">
+</p>

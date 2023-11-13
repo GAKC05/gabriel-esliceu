@@ -5,4 +5,6 @@
 ###
 -- Los procesos pueden ser creados de manera secuencial o en paralelo, dependiendo de la implementación del sistema operativo y las necesidades del programa.
 
-![](imagenes/creacion_de_procesos_image.jpg)
+<p align="center">
+  <img src="imagenes/creacion_de_procesos_image.jpg" alt="">
+</p>
