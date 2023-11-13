@@ -1,2 +1,2 @@
 # Sistemas Operativos
-[Gestor de Procesos](sistemas/procesos/01_instroduccion.md)
+[Gestor de Procesos](procesos/01_introduccion.md)

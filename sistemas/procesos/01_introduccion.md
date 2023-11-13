@@ -4,7 +4,7 @@ El gestor de procesos es un componente esencial de un sistema operativo encargad
 </div>
 
 ## Indice
-1. [Creación de Procesos](sistemas/procesos/02_creacion_de_procesos.md)
+1. [Creación de Procesos](indice/02_creacion_de_procesos.md)
 2. Planificación y Asignación de Recursos
 3. Ejecución de Procesos
 4. Sincronización y Comunicación
