@@ -1,7 +1,7 @@
 # gabriel-esliceu
 Esto es un **texto en negrita** y esto un *texto en cursiva*.
 # Primer Apartado
-A contninuación vamos a [Carpeta Ofimatica](ofimatica/README.md)
+A contninuación vamos a [Procesos de Gestor](sistemas/procesos/introduccion.md)
 ## Segundo Apartado
 1. Pan
 2. Queso
