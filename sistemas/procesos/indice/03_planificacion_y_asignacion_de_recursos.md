@@ -8,3 +8,6 @@
 <p align="center">
   <img src="imagenes/planificacion_y_asignacion_de_recursos.jpg" alt="">
 </p>
+<br>
+
+[REGRESAR](../01_introduccion.md)

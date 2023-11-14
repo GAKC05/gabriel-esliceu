@@ -6,3 +6,6 @@
 <p align="center">
   <img src="imagenes/sincronizacion_y_comunicacion.jpg" alt="">
 </p>
+<br>
+
+[REGRESAR](../01_introduccion.md)
