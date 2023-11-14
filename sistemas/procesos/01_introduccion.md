@@ -11,3 +11,9 @@ El gestor de procesos es un componente esencial de un sistema operativo encargad
 4. [Suspensión y Reanudación](indice/06_suspension_y_reanudacion.md)
 5. [Terminación de Procesos](indice/07_terminacion_de_procesos.md)
 6. [Gestión de Propiedades y Políticas](indice/08_gestion_de_propiedades_y_politicas.md)
+<br>
+<br>
+
+[VOLVER](../README.md)
+
+[Menú Principal](../../README.md)
